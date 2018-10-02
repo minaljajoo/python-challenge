@@ -1,8 +1,7 @@
 # ---------------------------------------------------------------------------
 #   Name of File: main.py
-#   Discription: CCreating a Python script for analyzing the financial records 
+#   Discription: Creating a Python script for analyzing the financial records 
 #                 You will give a set of financial data called budget_data.csv.
-#   Functions:  average
 #   Import Modules: os, csv, collection
 #   Input file: election_data.csv
 #   Output file: ByPoll_analysis.txt
